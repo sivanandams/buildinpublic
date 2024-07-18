@@ -3,7 +3,7 @@ title:
 description: 
 aliases: 
 tags: 
-draft: "false"
+draft: "true"
 date: 2024-07-18
 ---
 - **Repetition**: The formula (celsius * 9/5) + 32 is repeated multiple times.
